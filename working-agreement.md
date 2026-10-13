@@ -6,8 +6,7 @@ Version: 1.0 | Agreed: DATE | Next review: Sprint RETRO_NUMBER retrospective
 
 | Item | Our agreement |
 |:-|:-|
-| Core hours (*) | 8 hours <br> Not expected to be available or respond between the hours of 10pm and 8am <br> Ana - Not available Tuesday evenings, possibly not on Friday evenings. <br> Kriss - Not available Wednesday or Thursday evenings. <br> Maky - Not available mid day Wednesdays.
-<br> Reine - Same as Maky. May not be available daily between 4pm and 5:30pm. <br> Shauna - Same as Maky. |
+| Core hours (*) | 8 hours <br> Not expected to be available or respond between the hours of 10pm and 8am <br> Ana - Not available Tuesday evenings, possibly not on Friday evenings. <br> Kriss - Not available Wednesday or Thursday evenings. <br> Maky - Not available mid day Wednesdays. <br> Reine - Same as Maky. May not be available daily between 4pm and 5:30pm. <br> Shauna - Same as Maky. |
 | Team channel (*) | Discord Server |
 | Reply time (*) | Within 24 hours |
 | Absence and overload | Use the absences channel in the Discord server once you are aware that you might be absent. |
