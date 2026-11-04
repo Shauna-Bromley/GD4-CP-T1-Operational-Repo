@@ -1,0 +1,67 @@
+# Studio Plan - Spectra Saturniidae
+
+## Direction (Route B only)
+Option: partner project / team concept (combined or re-scoped).
+Candidates and scores; reason for the choice.
+Partner project: first question for the partner.
+Team concept: source concepts used; each panel feedback point and how it is addressed.
+
+## Studio
+| Member   | Major role     | Minor roles                                    |
+------------------------------------------------------------------------------
+| Shauna   | Scrum Master   | Audio Lead, Documentation Lead                 |
+| Ana      | Technical Lead | Technical Artist, UX/UI Designer               |
+| Kriss    | Design Lead    | Gameplay Programmer, AI Programmer             |
+| Reine    | Art Lead       | Technical Artist, Animator, Narrative Designer |
+| Maky     | QA             | Level Designer, UX/UI Designer                 |
+
+
+Core roles (one owner each): Producer / Scrum Master; Technical lead; Design lead; Art lead; Audio lead; QA and playtest lead.
+Specialist roles not filled, and why: X
+
+Working agreement: see `docs/working_agreement.md` (Appendix A template; starred questions today, the rest by the end of Sprint 3).
+
+## Pitch
+One-sentence pitch:
+Pillars: 1. / 2. / 3.
+Player, platform, session length:
+Non-goals: 1. / 2. / 3.
+
+## Hours budget
+Team size: 5| Gross: 800 (5*8*23)| Overhead: 200 (gross*0.25)| Buffer: 120 ((gross-overhead)*0.2)| Production hours: 480
+
+## Top three risks
+| Risk | Type | Owner | Spike sprint |
+|:-|:-|:-|:-|
+
+## Research cards (one per technical risk)
+= technical
+Question:
+Engine version:
+Primary sources (2+):
+Secondary sources (with dates):
+Options found and trade-offs:
+Recommendation:
+Spike and pass/fail test:
+
+## Scope
+| Item | MoSCoW | Estimate (h) |
+|:-|:-|:-|
+Must total (h): ___ of ___ production hours (target 60% or less)
+Vertical slice:
+
+## Content budget
+| Asset type | Max count | Variety from | Quality bar / reviewer |
+|:-|:-|:-|:-|
+
+## Roadmap
+| Phase | Sprints | Weeks and dates | Calendar deliverables (ICA / GCA) | Team goal | Exit test |
+|:-|:-|:-|:-|:-|:-|
+
+## Pipeline
+Version control: GitHub / Diversion
+Unticked items moved to Sprint 3:
+
+## Sprint 3
+Sprint goal:
+Backlog: linked on the Scrum board.
